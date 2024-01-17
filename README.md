@@ -2,7 +2,7 @@
 
 ## Overview
 
-ProjectGUI is an exciting and interactive game app developed using C++ Builder and RAD Studio. Dive into a world of fun challenges, stunning graphics, and engaging gameplay
+ProjectGUI is an exciting and interactive game app developed using C++ Builder and RAD Studio.
 
 ### Prerequisites
 
@@ -15,5 +15,4 @@ Before you begin, ensure you have the following prerequisites:
   - [RAD Studio](https://www.embarcadero.com/products/rad-studio)
   - RAD Studio is an integrated development environment (IDE) that combines powerful tools for building cross-platform applications.
   - Ensure you have RAD Studio installed, as it is the parent IDE for C++ Builder.
-  - [Additional dependencies or tools]
 
